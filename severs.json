@@ -1,0 +1,79 @@
+[
+  {
+    "ip": "lanplay.f-ever.cn",
+    "port": 11451,
+    "flag": "cn",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "joinsg.net",
+    "port": 11453,
+    "flag": "us",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "139.155.72.235",
+    "port": 11451,
+    "flag": "cn",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "ns.ix.tc",
+    "port": 11451,
+    "flag": "cn",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "www.kyle666.top",
+    "port": 11451,
+    "flag": "us",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "106.12.147.131",
+    "port": 11451,
+    "flag": "cn",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "175.178.187.22",
+    "port": 11451,
+    "flag": "us",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "ns.imxyd.com",
+    "port": 666,
+    "flag": "hk",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "175.178.187.22",
+    "port": 11451,
+    "flag": "ca",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "srv.jaxlewis.top",
+    "port": 11451,
+    "flag": "ca",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "124.223.87.139",
+    "port": 11451,
+    "flag": "fr",
+    "platform": "switch",
+    "type": "rust"
+  }
+]
