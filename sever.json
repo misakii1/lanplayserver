@@ -42,13 +42,6 @@
     "type": "rust"
   },
   {
-    "ip": "175.178.187.22",
-    "port": 11451,
-    "flag": "us",
-    "platform": "switch",
-    "type": "rust"
-  },
-  {
     "ip": "ns.imxyd.com",
     "port": 666,
     "flag": "hk",
