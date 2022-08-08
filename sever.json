@@ -1,6 +1,6 @@
 [
   {
-    "ip": "wang54188.iask.in",
+    "ip": "srv.jaxlewis.top",
     "port": 11451,
     "flag": "cn",
     "platform": "switch",
@@ -21,8 +21,8 @@
     "type": "rust"
   },
   {
-    "ip": "ns.ix.tc",
-    "port": 11451,
+    "ip": "www.enptysun.ga",
+    "port": 11556,
     "flag": "cn",
     "platform": "switch",
     "type": "rust"
@@ -56,9 +56,9 @@
     "type": "rust"
   },
   {
-    "ip": "175.178.187.22",
+    "ip": "124.221.52.85",
     "port": 11451,
-    "flag": "ca",
+    "flag": "cn",
     "platform": "switch",
     "type": "rust"
   },
@@ -72,7 +72,70 @@
   {
     "ip": "124.223.87.139",
     "port": 11451,
-    "flag": "fr",
+    "flag": "cn",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "lanplay.cpalm.org",
+    "port": 11451,
+    "flag": "cn",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "lanplay.cpalm.org",
+    "port": 11456,
+    "flag": "cn",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "124.223.203.187",
+    "port": 11451,
+    "flag": "cn",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "150.158.40.88",
+    "port": 11451,
+    "flag": "cn",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "106.12.147.131",
+    "port": 11451,
+    "flag": "cn",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "106.13.230.72",
+    "port": 11451,
+    "flag": "cn",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "mhrise.club",
+    "port": 11451,
+    "flag": "cn",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "yordon.cn",
+    "port": 11451,
+    "flag": "cn",
+    "platform": "switch",
+    "type": "rust"
+  },
+  {
+    "ip": "159.75.87.168",
+    "port": 11451,
+    "flag": "cn",
     "platform": "switch",
     "type": "rust"
   }
